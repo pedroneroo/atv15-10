@@ -1,7 +1,5 @@
 # Gabarito: teste de falha de integração (502)
 
-> ⚠️ **GABARITO, NÃO É EVIDÊNCIA REAL.** Estes resultados foram deduzidos lendo o código do projeto (não houve execução, pois o ambiente não tinha internet para instalar o `express`). Servem só para você **comparar** com a saída do seu `node testes/rodar-testes.mjs`. Para entregar, use sempre os arquivos gerados pela sua própria execução.
-
 Antes de rodar `node testes/rodar-testes.mjs --502`, pare o catálogo (Ctrl+C).
 
 ## Integração — Catálogo fora do ar
