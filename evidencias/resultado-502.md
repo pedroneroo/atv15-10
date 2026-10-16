@@ -2,7 +2,7 @@
 
 Antes de rodar `node testes/rodar-testes.mjs --502`, pare o catálogo (Ctrl+C).
 
-## Integração — Catálogo fora do ar
+## Integração — Catálogo fora do ar.
 
 - **Requisição:** `POST http://localhost:3000/agendamentos`
 - **Body:**
