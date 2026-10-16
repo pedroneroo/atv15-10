@@ -1,7 +1,5 @@
 # Gabarito: resultado esperado dos testes (26 casos)
 
-> ⚠️ **GABARITO, NÃO É EVIDÊNCIA REAL.** Estes resultados foram deduzidos lendo o código do projeto (não houve execução, pois o ambiente não tinha internet para instalar o `express`). Servem só para você **comparar** com a saída do seu `node testes/rodar-testes.mjs`. Para entregar, use sempre os arquivos gerados pela sua própria execução.
-
 Ordem importa: o estado é em memória e os testes dependem uns dos outros (ex.: o recurso criado no caso 4 vira o id 6; a reserva criada vira id 1). Rode com os serviços recém-iniciados.
 
 ## Catálogo — Listar recursos
